@@ -1,2 +1,3 @@
 git commit -m Update the README.md file
 git pull
+:git pull
